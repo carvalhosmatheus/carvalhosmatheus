@@ -14,7 +14,7 @@ Estudante de Engenharia de Software | Ex-profissional Fiscal/Contábil migrando 
 
 ### 🇧🇷 Sobre mim
 
-Sou **formado em Ciências Contábeis** e hoje curso **Engenharia de Software**, em transição de carreira para tecnologia. Venho de 7 anos de experiência sólida na área **fiscal e contábil** (faturamento, ICMS, ISS, NF-e/NFSe) e estou explorando diferentes frentes dentro de tech, como desenvolvimento, dados, QA e automação, pra descobrir onde essa experiência gera mais valor.
+Sou **formado em Ciências Contábeis** e hoje curso **Engenharia de Software**, em transição de carreira para tecnologia. Venho de 7 anos de experiência sólida na área **fiscal e contábil** (ICMS, ISS, NF-e/NFSe) e estou explorando diferentes frentes dentro de tech, como desenvolvimento, dados, QA e automação, pra descobrir onde essa experiência gera mais valor.
 
 Isso é meu diferencial: entendo a dor de quem trabalha com compliance fiscal no Brasil, um dos ambientes regulatórios mais complexos do mundo, e estou aprendendo a construir soluções de software para resolver esses problemas.
 
