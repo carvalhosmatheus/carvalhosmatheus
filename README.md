@@ -27,7 +27,14 @@ Isso é meu diferencial: entendo a dor de quem trabalha com compliance fiscal no
 **Tecnologias que estou aprendendo:**
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,nextjs,mysql,git,github&titles=true" />
+  <img title="HTML" alt="HTML" src="https://skillicons.dev/icons?i=html" height="48"/>
+  <img title="CSS" alt="CSS" src="https://skillicons.dev/icons?i=css" height="48"/>
+  <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="48"/>
+  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="48"/>
+  <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="48"/>
+  <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="48"/>
+  <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="48"/>
+  <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/>
 </p>
 
 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/carvalhosmatheus/)
