@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/carvalhosmatheus">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Ex-profissional+Fiscal%2FContábil;Em+transição+para+Tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Ex-profissional+Fiscal+e+Contabil;Em+transicao+para+Tecnologia" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ Isso é meu diferencial: entendo a dor de quem trabalha com compliance fiscal no
 **Tecnologias que estou aprendendo:**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nextjs,mysql,git,github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,nextjs,mysql,git,github&titles=true" />
 </p>
 
 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/carvalhosmatheus/)
@@ -51,8 +51,8 @@ I hold a **degree in Accounting** and I'm currently studying **Software Engineer
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carvalhosmatheus&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhosmatheus&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=carvalhosmatheus&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=carvalhosmatheus&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
