@@ -47,6 +47,7 @@ Isso é meu diferencial: entendo a dor de quem trabalha com compliance fiscal no
   <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="48"/>
   <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="48"/>
   <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="48"/>
+  <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="48"/>
   <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/>
 </p>
 
