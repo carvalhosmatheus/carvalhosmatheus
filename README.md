@@ -24,6 +24,12 @@ Isso é meu diferencial: entendo a dor de quem trabalha com compliance fiscal no
 - 📚 Estudando Python, lógica de programação, UML e bancos de dados na faculdade
 - 📊 Aplicando Power BI e automação em rotinas fiscais reais
 
+  **🎉 Além do código:**
+- 🏖️ Apaixonado por praia e natureza
+- 🎶 Frequento shows e festivais de música sempre que posso
+- ✈️ Adoro viajar e conhecer lugares novos
+- ♑ Capricorniano
+
 **Tecnologias que estou aprendendo:**
 
 <p align="center">
@@ -55,11 +61,6 @@ I hold a **degree in Accounting** and I'm currently studying **Software Engineer
 - 🇧🇷 Português (nativo)
 - 🇬🇧 Inglês (Intermediário, B1)
 
-**🎉 Além do código:**
-- 🏖️ Apaixonado por praia e natureza
-- 🎶 Frequento shows e festivais de música sempre que posso
-- ✈️ Adoro viajar e conhecer lugares novos
-- ♑ Capricorniano
 
 **🎉 Beyond the code:**
 - 🏖️ Passionate about the beach and nature
