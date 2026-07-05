@@ -24,6 +24,14 @@ Isso é meu diferencial: entendo a dor de quem trabalha com compliance fiscal no
 - 📚 Estudando Python, lógica de programação, UML e bancos de dados na faculdade
 - 📊 Aplicando Power BI e automação em rotinas fiscais reais
 
+
+**Idiomas:**
+- 🇧🇷 Português (nativo)
+- 🇪🇸 Espanhol (Básico, A1)
+- 🇬🇧 Inglês (Intermediário, B1)
+
+
+
   **🎉 Além do código:**
 - 🏖️ Apaixonado por praia e natureza
 - 🎶 Frequento shows e festivais de música sempre que posso
@@ -58,8 +66,9 @@ I hold a **degree in Accounting** and I'm currently studying **Software Engineer
 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/carvalhosmatheus/)
 
 **Idiomas:**
-- 🇧🇷 Português (nativo)
-- 🇬🇧 Inglês (Intermediário, B1)
+- 🇧🇷 Portuguese (native)
+- 🇪🇸  Spanish (basic, A1)
+- 🇬🇧 English (intermediate, B1)
 
 
 **🎉 Beyond the code:**
