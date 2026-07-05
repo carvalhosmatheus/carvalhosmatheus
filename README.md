@@ -64,7 +64,7 @@ I hold a **degree in Accounting** and I'm currently studying **Software Engineer
 
 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/carvalhosmatheus/)
 
-**Idiomas:**
+**languages:**
 - 🇧🇷 Portuguese (native)
 - 🇪🇸  Spanish (basic, A1)
 - 🇬🇧 English (intermediate, B1)
