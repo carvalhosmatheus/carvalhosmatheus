@@ -1,7 +1,9 @@
 <h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
 <p align="center">
-Estudante de Engenharia de Software | Ex-profissional Fiscal/Contábil migrando para tecnologia
+  <a href="https://github.com/carvalhosmatheus">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Ex-profissional+Fiscal%2FContábil;Em+transição+para+Tecnologia" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -25,7 +27,7 @@ Isso é meu diferencial: entendo a dor de quem trabalha com compliance fiscal no
 **Tecnologias que estou aprendendo:**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nextjs,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nextjs,mysql,git,github" />
 </p>
 
 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/carvalhosmatheus/)
@@ -46,19 +48,13 @@ I hold a **degree in Accounting** and I'm currently studying **Software Engineer
 - 🇧🇷 Português (nativo)
 - 🇬🇧 Inglês (Intermediário, B1)
 
-**Gráfico 3D de contribuições:**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carvalhosmatheus/carvalhosmatheus/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carvalhosmatheus&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhosmatheus&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carvalhosmatheus&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhosmatheus&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carvalhosmatheus&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carvalhosmatheus&theme=dark&hide_border=true" />
 </p>
