@@ -55,6 +55,18 @@ I hold a **degree in Accounting** and I'm currently studying **Software Engineer
 - 🇧🇷 Português (nativo)
 - 🇬🇧 Inglês (Intermediário, B1)
 
+**🎉 Além do código:**
+- 🏖️ Apaixonado por praia e natureza
+- 🎶 Frequento shows e festivais de música sempre que posso
+- ✈️ Adoro viajar e conhecer lugares novos
+- ♑ Capricorniano
+
+**🎉 Beyond the code:**
+- 🏖️ Passionate about the beach and nature
+- 🎶 I go to concerts and music festivals whenever I can
+- ✈️ I love traveling and discovering new places
+- ♑ Capricorn
+
 ---
 
 <p align="center">
